@@ -1,0 +1,19 @@
+{
+  "name": "chatserver",
+  "version": "1.0.0",
+  "description": "Minimalist multiroom char server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JlineZen/chartServer.git"
+  },
+  "author": "bjiang",
+  "license": "ISC",
+  "devDependencies": {
+    "mime": "^1.3.4",
+    "socket.io": "^1.5.1"
+  }
+}
